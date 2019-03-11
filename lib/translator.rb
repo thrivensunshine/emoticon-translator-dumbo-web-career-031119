@@ -1,6 +1,7 @@
 # require modules here
 
-def load_library
+def load_library(one)
+  puts angel
   # code goes here
 end
 
